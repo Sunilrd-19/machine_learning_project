@@ -4,11 +4,11 @@ Start Machine Learning project.
 
 Software and account Requirement.
 
-Github Account
-Heroku Account
-VS Code IDE
-GIT cli
-GIT Documentation
+1.Github Account
+2.Heroku Account
+3.VS Code IDE
+4.GIT cli
+5.GIT Documentation
 
 
 Creating conda environment
@@ -56,7 +56,9 @@ git remote -v
 To setup CI/CD pipeline in heroku we need 3 information
 
 HEROKU_EMAIL = Sunilrdoddamani@gmail.com
+
 HEROKU_API_KEY = <>
+
 HEROKU_APP_NAME = ml-regression-app
 
 
