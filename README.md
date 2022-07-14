@@ -59,7 +59,7 @@ HEROKU_EMAIL = Sunilrdoddamani@gmail.com
 
 HEROKU_API_KEY = <>
 
-HEROKU_APP_NAME = ml-regression-app
+HEROKU_APP_NAME = mlregressionproject
 
 
 BUILD DOCKER IMAGE
