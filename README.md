@@ -57,7 +57,11 @@ To setup CI/CD pipeline in heroku we need 3 information
 
 HEROKU_EMAIL = Sunilrdoddamani@gmail.com
 
+<<<<<<< HEAD
 HEROKU_API_KEY = ab08a7df-f748-42a4-83cb-e572cc144c62
+=======
+HEROKU_API_KEY = <>
+>>>>>>> 5c92f800b085f57ab1015de81a46ffe3872df823
 
 HEROKU_APP_NAME = mlregressionproject
 
